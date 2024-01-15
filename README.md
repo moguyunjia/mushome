@@ -1,10 +1,17 @@
 # Project: Mushome
-
+The original and foremost code example of the Mushroom Image Recognition project, which subsequently spawned a series of related results, with the original project code in the AI Studio platform.
 ## Data
 https://aistudio.baidu.com/datasetdetail/21566
 
 ## Original Project
 Mushome_v.0.2：https://aistudio.baidu.com/projectdetail/271322?sUid=60576&shared=1&ts=1705309046103
+
+## Relevant Patents: 
+CN111860601A
+China
+
+## Relevant Project: 
+Multi-input-mushroom-recognition: https://github.com/set-path/multi-input-mushroom-recognition.git
 
 ## Relevant Resaerch: 
 ### Research on mushroom image classification based on deep learning
